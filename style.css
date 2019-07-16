@@ -9,6 +9,8 @@ ul {
   margin-bottom: 0px;
   margin-right: 300px;
   margin-left: 10px;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 h1 {
