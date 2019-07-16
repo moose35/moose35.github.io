@@ -35,13 +35,13 @@ img {
 }
 
 .column {
-  float: right
+  float: left
 }
 
 .left {
-  width: 75%;
+  width: 50%;
 }
 
 .right {
-  width: 25%;
+  width: 50%;
 }
