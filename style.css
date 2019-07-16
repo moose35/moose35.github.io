@@ -22,7 +22,7 @@ h2 {
 img {
   border-radius: 8px;
   float: left;
-  clear: right;
+  clear: left;
   width: 400px;
   height: 400px;
 }
