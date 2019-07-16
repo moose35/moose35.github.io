@@ -25,6 +25,7 @@ img {
   clear: left;
   width: 400px;
   height: 400px;
+  martin-top: 20px;
 }
 
 .jobs {
