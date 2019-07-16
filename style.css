@@ -32,10 +32,11 @@ img {
   margin-right: 20px;
   background-color: powderblue;
   float: left
+    width: 50%;
 }
 
 .left {
-  width: 50%;
+  
 }
 
 .right {
