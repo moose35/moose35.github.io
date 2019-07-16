@@ -20,7 +20,8 @@ h2 {
 
 img {
   border-radius: 8px;
-  
+  float: right;
+	  clear: left;
   width: 400px;
   height: 400px;
 }
@@ -31,10 +32,5 @@ img {
   margin-left: 20px;
   margin-right: 20px;
   background-color: powderblue;
-  float: left
-    width: 50%;
 }
 
-.left {
-  
-}
