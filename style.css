@@ -35,9 +35,4 @@ img {
   padding: 10px;
 }
 
-.row {
-	content: "";
-  display: table;
-  clear: both;
-}
 
