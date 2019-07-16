@@ -5,10 +5,6 @@ body {
 }
 
 ul {
-  margin-top: 0px;
-  margin-bottom: 0px;
-  margin-right: 350px;
-  margin-left: 10px;
   text-align: justify;
   text-justify: inter-word;
 }
@@ -30,8 +26,6 @@ img {
 }
 
 .jobs {
-  margin-left: 30px;
-  margin-right: 300px
   text-align: justify;
   text-justify: inter-word;
 }
