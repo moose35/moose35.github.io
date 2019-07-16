@@ -30,13 +30,13 @@ img {
   margin-left: 20px;
   margin-right: 20px;
   background-color: powderblue;
-	width: 55%;
+	width: 65%;
 	padding: 10px;
 	float: left;
 	
 }
 
 .pic {
-	
+	float: right;
 	align: center;
 }
