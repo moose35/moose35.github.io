@@ -18,3 +18,9 @@ h1 {
 h2 {
    text-align: center;
 }
+
+img {
+  float: left;
+  width: 50%;
+  height: 50%;
+}
