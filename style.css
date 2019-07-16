@@ -36,3 +36,10 @@ img {
   background-color: powderblue;
 	}
 
+a:link {
+  color: #DC143C;
+}
+
+a:visited {
+  color: #191970;
+}
