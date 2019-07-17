@@ -25,6 +25,11 @@ h1 {
 	background-color: powderblue;
 }
 
+.bottom {
+   
+	font-size: 20px;
+}
+
 img {
   border-radius: 8px;
   width: 300px;
