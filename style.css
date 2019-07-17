@@ -13,6 +13,8 @@ ul {
 
 .top {
    text-align: right;
+	margin-top: 5px;
+		margin-bottom: 5px;
 	margin-left: 20px;
 	margin-right: 20px;
 	font-size: 14px;
